@@ -14,4 +14,9 @@ with col2:
 Over the past year, Emmanuel has worked on diverse projects ranging from web development to data analysis. He has a solid understanding of Python libraries such as Django, Flask, Pandas, and NumPy, which he has utilized to create efficient web applications and perform complex data manipulations.
 
     """
-    st.write(content)
+
+    st.info(content)
+
+content2 = """
+Below you can find some of the apps I have built in python. Feel free to contact me"""
+st.write(content2)
