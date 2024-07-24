@@ -23,7 +23,7 @@ To run this app locally, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/python-projects-showcase.git
+    git clone https://github.com/emmanuelpatrick14/Python-Projects-Showcase-App.git
     cd python-projects-showcase
     ```
 
